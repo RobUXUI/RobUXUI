@@ -12,13 +12,6 @@ aplicando mis conocimientos para crear soluciones innovadoras que mejoren la int
 ## Intereses
 - 👀 Diseño y desarrollo de software utilizando tecnologías web.
 
-## Aprendiendo actualmente
-- 🌱 Figma avanzado
-- 🌱 Desarrollo full stack
-- 🌱 JavaScript
-- 🌱 Mongo DB
-- 🌱 NodeJS
-- 🌱 React
 
 ## Colaboración
 Estoy interesado en colaborar en proyectos de experiencia de usuario, diseño de interfaces y desarrollo front-end.
